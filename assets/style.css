@@ -191,3 +191,10 @@ footer {
         display: flex;
     }
 }
+
+
+.container {
+  max-width: 800px;   /* Adjust this width to make it narrower or wider */
+  margin: 0 auto;     /* This centers it horizontally */
+  padding: 20px;      /* Optional spacing inside the container */
+}
