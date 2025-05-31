@@ -194,7 +194,7 @@ footer {
 
 
 .container {
-  max-width: 800px;   /* Adjust this width to make it narrower or wider */
+  max-width: 600px;   /* Adjust this width to make it narrower or wider */
   margin: 0 auto;     /* This centers it horizontally */
   padding: 20px;      /* Optional spacing inside the container */
 }
