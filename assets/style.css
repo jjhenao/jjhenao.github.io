@@ -193,6 +193,11 @@ footer {
 }
 
 
+.gif-wrapper {
+  text-align: center;
+  margin-top: 20px;
+}
+
 .container {
   max-width: 600px;   /* Adjust this width to make it narrower or wider */
   margin: 0 auto;     /* This centers it horizontally */
